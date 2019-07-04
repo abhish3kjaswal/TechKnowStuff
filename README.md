@@ -1,5 +1,5 @@
 # TechKnowStuff
-Designing of a  Website using bootstrap framework that mainly gives technology related information.
+ A basic  Website using bootstrap framework that mainly gives technology related information.
 
 # FEATURES:
 
